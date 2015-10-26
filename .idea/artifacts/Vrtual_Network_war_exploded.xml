@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="Vrtual Network:war exploded">
+    <output-path>$PROJECT_DIR$/../artifacts/Vrtual_Network_war_exploded</output-path>
+    <properties id="ant-preprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="root">
+      <element id="library" level="module" name="warden-client (v0.1.0, /Users/terminator/RubymineProjects/Rubykextd/Vrtual Network/cf-vagrant-installer/warden/warden-client) [path][gem]" module-name="Vrtual Network" />
+      <element id="library" level="module" name="warden-protocol (v0.1.3, /Users/terminator/RubymineProjects/Rubykextd/Vrtual Network/cf-vagrant-installer/warden/warden-protocol) [path][gem]" module-name="Vrtual Network" />
+      <element id="javaee-facet-resources" facet="Vrtual Network/web/Web2" />
+      <element id="javaee-facet-resources" facet="Vrtual Network/web/Web5" />
+      <element id="javaee-facet-resources" facet="Vrtual Network/web/Web6" />
+      <element id="javaee-facet-resources" facet="Vrtual Network/web/Web4" />
+      <element id="javaee-facet-resources" facet="Vrtual Network/web/Web" />
+      <element id="javaee-facet-resources" facet="Vrtual Network/web/Web3" />
+    </root>
+  </artifact>
+</component>

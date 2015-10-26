@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Studionet" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug" singleton="true">
+    <node-js-remote-debug />
+    <method>
+      <option name="FwBeforeLaunchTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
